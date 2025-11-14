@@ -29,3 +29,9 @@ To perform a comprehensive analysis of Netflix’s content trends and provide ac
 - Spot trends in audience preferences across years
 - Guide content acquisition and production strategies
 
+## ✨ AICTE–VOIS Virtual Internship 
+🎓 Completed AICTE–VOIS Virtual Internship on **Conversational Data Analysis with LLMs**  
+🏢 Hosted by Vodafone Idea Foundation, Edunet Foundation & Connecting Dreams Foundation  
+🧠 Explored LLM pipelines, prompt engineering & conversational data insights  
+🤝 Collaborative learning with peers, hands-on experimentation  
+📅 Duration: Sept 11 – Oct 8, 2025 | Issued Certificate ✅
